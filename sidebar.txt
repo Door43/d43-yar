@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yar:home|Door43 (yar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yar|d43-yar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yar/archive/master.zip|d43-yar.zip]]
+
+**Recent Changes**
+{{changes>ns = yar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yar|Ethnologue data]]
+
